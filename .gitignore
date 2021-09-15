@@ -1,5 +1,6 @@
 
-images/*
+landmark_project/images/*
+landmark_project/landmark_images/*
 
 .vscode/*
 
