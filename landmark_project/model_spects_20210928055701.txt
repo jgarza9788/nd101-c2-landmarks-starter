@@ -51,3 +51,19 @@ Net(
 Test Loss: 3.205295
 
 Test Accuracy: 28% (144/501)
+
+Test Loss: 2.181859
+
+Test Accuracy: 43% (217/501)
+
+Test Loss: 3.862757
+
+Test Accuracy:  5% (29/501)
+
+Test Loss: 2.197044
+
+Test Accuracy: 41% (210/501)
+
+Test Loss: 1.975514
+
+Test Accuracy: 49% (246/501)
